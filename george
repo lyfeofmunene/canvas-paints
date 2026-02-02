@@ -1,0 +1,33 @@
+ <div class="col-md-12">
+                <!--the card starts here-->
+                <div class="card shadow">
+                </div>
+                <!--card header-->
+                <div class="card header">
+                <h3>Swan paintings</h3>
+                </div>
+                <!--card body-->
+                <div class="card body">
+                <img src="/images/Swan-Painting-_-Afuly.jpg" alt="" height="260px" width="50%">
+                </div>
+                <!--card footer-->
+                 <div class="card-footer">
+                <p>Get the water effect for your bedroom wall with less and affordable price.</p>
+                <b class="text-warning">Ksh 12,500</b><br>
+                <span class="bg-danger badge">10% off</span>
+            </div>
+             <div class="col-md-12">
+                <h6></h6>
+                <img src="/images/maxresdefault.jpg" alt="" height="260px" width="60%">
+                <p>Get the best wall mount and make your dinningg the place to be.</p>
+                <b class="text-warning">Ksh 85,000</b><br>
+                <span class="bg-danger badge">15% off</span>
+            </div>
+             <div class="col-md-12">
+                <h6>Water effect using graphite pencils</h6>
+                <img src="images/water-effect-using-graphite-pencils-on-paper-v0-v7mvk62parib1.webp" alt="" height="260px" width="60%">
+                <p>Get the best and affordable wall hahgout on our market.</p>
+                <b class="text-warning">Ksh 9,600</b><br>
+                <span class="bg-danger badge">8% off</span>
+            </div>
+            </div>
